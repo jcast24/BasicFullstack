@@ -15,6 +15,7 @@ export const showAllItems = async () => {
     }
 };
 
-showAllItems();
+// if we uncomment this, then the code would automatically run when exporting to another file
+// showAllItems();
 
 
